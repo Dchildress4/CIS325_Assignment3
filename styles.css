@@ -15,27 +15,21 @@ p {
 }
 
 button {
-    background-color: rgb(141, 117, 248);
-    color: white;
-    padding: 12px 24px;
+    background-color: #8d75f8;
+    color: #fff;
+    padding: 14px 28px;
     border: none;
-    border-radius: 6px;
+    border-radius: 8px;
     font-size: 16px;
-    font-family: "Georgia", serif;
     cursor: pointer;
     transition: background-color 0.3s ease, transform 0.2s ease;
+    margin: 0 auto 30px auto;
     display: block;
-    margin: 20px auto;
 }
 
 button:hover {
     background-color: rgb(87, 61, 182);
     transform: translateY(-2px);
-}
-
-#js-test {
-    color: rgb(235, 169, 213);
-    font-weight: bold;
 }
 
 #myImage {
