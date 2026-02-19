@@ -1,4 +1,4 @@
-const button = document.getElementById('myButton');
+const button = document.getElementById('clickBtn');
 const image = document.getElementById('myImage');
 const images = ['Baby.jpg', 'Toddler.jpg', 'Kid.jpg', 'Pre-teen.jpg', 'High School.jpg'];
 let currIndex = 0;
